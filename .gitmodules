@@ -10,3 +10,27 @@
 [submodule "obsidian-scripts"]
 	path = obsidian-scripts
 	url = https://github.com/borgnetzwerk/obsidian-scripts
+[submodule "wikify"]
+	path = wikify
+	url = https://github.com/borgnetzwerk/wikify
+[submodule "texify"]
+	path = texify
+	url = https://github.com/borgnetzwerk/texify
+[submodule "spellcheck"]
+	path = spellcheck
+	url = https://github.com/borgnetzwerk/spellcheck
+[submodule "obsidize"]
+	path = obsidize
+	url = https://github.com/borgnetzwerk/obsidize
+[submodule "nlp"]
+	path = nlp
+	url = https://github.com/borgnetzwerk/nlp
+[submodule "helper"]
+	path = helper
+	url = https://github.com/borgnetzwerk/helper
+[submodule "extract_from_html"]
+	path = extract_from_html
+	url = https://github.com/borgnetzwerk/extract_from_html
+[submodule "graphvizify"]
+	path = graphvizify
+	url = https://github.com/borgnetzwerk/graphvizify
