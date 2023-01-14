@@ -70,17 +70,19 @@ The extracted noteworthy keywords. This submodule extracts the important keyword
 ### Similarity
 This submodule is used to calculate the similarity between lemma-vectors and topic-vectors.
 
-### publishing
-The publishing submodules are designed to publish the enhanced information.
+## publishing
+The publishing submodules are an essential part of the BorgNetzwerk project, as they allow us to share our results with the community. We use different platforms to make the information accessible to a wide audience and to provide different ways for the community to interact with our project.
 
 ### obsidize
-This submodule is used to obsidize the information.
+Our `obsidize` submodule allows us to publish our results to a local Obsidian.md, making it easy for the community to access and interact with the information. The Obsidian.md format is perfect for creating a personal knowledge base and allows users to create and link notes and organize information with ease.
 
 ### wikify
-This submodule is used to wikify the information.
+The `wikify` submodule allows us to publish our results to a MediaWiki under data.bnwiki.de, making it a great platform for collaboration. MediaWiki allows multiple users to contribute and edit the information, and also provides a version history of the changes made. This is great for creating a community-driven knowledge base and encourages engagement and collaboration.
 
 ### texify
-This submodule is used to texify the information.
+With our `texify` submodule, we can publish our results to a local LaTeX project, which is perfect for creating high-quality documents. LaTeX is a typesetting system that allows users to create professional-looking documents with mathematical formulas, tables, and other advanced features. This is great for creating documents that will be shared with a professional audience, such as academic papers and reports.
+
+We encourage the community to explore and interact with the information we publish on these platforms, and to reach out to us if they have any questions or feedback.
 
 # Contributing
 If you're interested in contributing to the BorgNetzwerk project, we'd love to have you! You can start by browsing through the open issues and picking one that you're interested in working on. If you have an idea for a new feature or a bug that you'd like to report, please open a new issue so we can discuss it. Once you're ready to start working on an issue, you can create a fork of the repository and submit a pull request when you're finished.
