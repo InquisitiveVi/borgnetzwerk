@@ -21,7 +21,7 @@ cd borgnetzwerk
 ### Git Desktop App
 1. Download and install the [Git Desktop](https://desktop.github.com/) app on your machine.
 2. Once you have the app installed, open it and select "Clone a repository" from the File menu.
-3. In the "Clone a Repository" window, enter the URL of the BorgNetzwerk superproject repository: "https://github.com/borgnetzwerk/superproject" and select a local folder where you want to store the cloned repository.
+3. In the "Clone a Repository" window, enter the URL of the BorgNetzwerk superproject repository: "https://github.com/borgnetzwerk/borgnetzwerk" and select a local folder where you want to store the cloned repository.
 4. Click "Clone" to start the cloning process. Once the cloning is done, the superproject repository will be available on your local machine in the selected folder.
 ## Execution order
 The execution order of the submodules can be done in two ways:
