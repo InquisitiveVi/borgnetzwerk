@@ -34,3 +34,6 @@
 [submodule "graphvizify"]
 	path = graphvizify
 	url = https://github.com/borgnetzwerk/graphvizify
+[submodule "extract_from_pytube"]
+	path = extract_from_pytube
+	url = https://github.com/borgnetzwerk/extract_from_pytube
