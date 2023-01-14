@@ -1,0 +1,12 @@
+[submodule "transcript"]
+	path = transcript
+	url = https://github.com/borgnetzwerk/transcript
+[submodule "playlist2wiki-converter"]
+	path = playlist2wiki-converter
+	url = https://github.com/borgnetzwerk/playlist2wiki-converter
+[submodule "visualize-text"]
+	path = visualize-text
+	url = https://github.com/borgnetzwerk/visualize-text
+[submodule "obsidian-scripts"]
+	path = obsidian-scripts
+	url = https://github.com/borgnetzwerk/obsidian-scripts
