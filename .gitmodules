@@ -2,13 +2,13 @@
 	path = transcript
 	url = https://github.com/borgnetzwerk/transcript
 [submodule "playlist2wiki-converter"]
-	path = playlist2wiki-converter
+	path = playlist2wiki_converter
 	url = https://github.com/borgnetzwerk/playlist2wiki-converter
 [submodule "visualize-text"]
-	path = visualize-text
+	path = visualize_text
 	url = https://github.com/borgnetzwerk/visualize-text
 [submodule "obsidian-scripts"]
-	path = obsidian-scripts
+	path = util_obsidian
 	url = https://github.com/borgnetzwerk/obsidian-scripts
 [submodule "wikify"]
 	path = wikify
